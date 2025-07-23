@@ -1,30 +1,30 @@
-let baddar =50;
+// let baddar =50;
 
-if(baddar==90){
-document.write("you get A+ marks")
-}
+// if(baddar==90){
+// document.write("you get A+ marks")
+// }
 
-else if(baddar==80){
+// else if(baddar==80){
 
-document.write("you get A")
-}
+// document.write("you get A")
+// }
 
-else if(baddar==70){
+// else if(baddar==70){
 
-document.write("you get B+" )
-}
+// document.write("you get B+" )
+// }
 
-else if(baddar==60){
+// else if(baddar==60){
 
-document.write("you get B" )
-}
+// document.write("you get B" )
+// }
 
-else if(baddar==50){
+// else if(baddar==50){
 
-document.write("you get C" )
-}
+// document.write("you get C" )
+// }
 
-else{
+// else{
 
-document.write("bc You are failed" )
-}
+// document.write("bc You are failed" )
+// }
